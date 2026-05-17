@@ -50,7 +50,7 @@ AutoCAD · Technical Systems Design · Hardware/Software Integration
 ## Current studies
 
 - Electromechanical Engineering — University of Costa Rica
-- Neurology Studies — University of Pennsylvania
+- Medicine Studies — University of Pennsylvania
 
 ---
 
