@@ -84,9 +84,34 @@ Neurology Studies — University of Pennsylvania
 
 <br>
 
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ImJustSebas&bg_color=00000000&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true"
+  width="100%"
+/>
+
+</td>
+
+<td width="50%" align="center" valign="top">
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ImJustSebas&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=888888&rank_icon=github"
+  width="100%"
+/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ImJustSebas&bg_color=00000000&color=ffffff&line=888888&point=ffffff&area=true&hide_border=true"
+    src="https://raw.githubusercontent.com/ImJustSebas/ImJustSebas/output/github-contribution-grid-snake.svg"
+    alt="Contribution Snake"
     width="100%"
   />
 </p>
