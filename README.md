@@ -99,7 +99,7 @@ Neurology Studies — University of Pennsylvania
 <td width="40%" align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ImJustSebas&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=cccccc&icon_color=888888"
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=ImJustSebas&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=ffffff&text_color=bfbfbf&icon_color=8a8a8a"
   width="100%"
 />
 
