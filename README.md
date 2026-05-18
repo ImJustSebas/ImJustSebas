@@ -2,6 +2,18 @@
   <img src="./Banner.png" alt="Banner" width="100%">
 </p>
 
+<p align="center">
+  <a href="mailto:sebastianporras067@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/white" width="22" />
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://instagram.com/5ilvermo0n">
+    <img src="https://cdn.simpleicons.org/instagram/white" width="22" />
+  </a>
+</p>
+
 <br>
 
 <table>
