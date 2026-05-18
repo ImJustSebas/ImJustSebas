@@ -2,38 +2,29 @@
   <img src="./Banner.png" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Sebastian</h1>
-
-<p align="center">
-  Developer focused on complex systems, cybersecurity, low-level computing and robust software architecture.
-</p>
-
----
-
-<h2>About Me</h2>
+<br>
 
 <table>
 <tr>
-<td width="65%" valign="top">
+<td width="62%" valign="middle">
 
-I work from a multidisciplinary and systems-oriented mindset, with strong interest in understanding how interconnected technologies behave, scale and interact under real-world constraints.
+<h2>About Me</h2>
 
-My work is centered around technically demanding problems that require analytical depth, precision and strong engineering foundations.
+<p>
+I work from a multidisciplinary and systems-oriented mindset, with a strong interest in understanding how interconnected technologies behave, scale and interact under real-world constraints. My work is centered around technically demanding problems that require analytical depth, precision and strong engineering foundations.
+</p>
 
-I have participated in projects ranging from personal research initiatives to collaborations with startups, private companies and governmental entities, with experience in:
+<p>
+I have participated in projects ranging from personal research initiatives to collaborations with startups, private companies and governmental entities, with experience in cybersecurity, cryptographic protection systems, infrastructure and systems architecture, embedded systems, data analysis environments and web development.
+</p>
 
-- Cybersecurity
-- Cryptographic protection systems
-- Infrastructure and systems architecture
-- Embedded systems
-- Data analysis environments
-- Web development for businesses and organizations
-
+<p>
 One of my most ambitious personal projects involved the development of a functional neural-controlled prosthesis for people with paralysis, combining Arduino, Python and C to process and translate neural signals into mechanical interaction.
+</p>
 
 </td>
 
-<td width="35%" align="center" valign="top">
+<td width="38%" align="center" valign="middle">
 
 <img src="./Acerca-De.png" alt="About Me" width="100%">
 
@@ -45,15 +36,9 @@ One of my most ambitious personal projects involved the development of a functio
 
 <h2>Areas of Interest</h2>
 
-<ul>
-  <li>Low-level development and terminal-based workflows</li>
-  <li>Systems architecture and infrastructure design</li>
-  <li>Cybersecurity and defensive systems</li>
-  <li>Technical documentation analysis</li>
-  <li>Embedded systems and hardware interaction</li>
-  <li>Performance optimization and reliability engineering</li>
-  <li>Complex problem solving</li>
-</ul>
+<p>
+Low-level development • Terminal-based workflows • Systems architecture • Infrastructure design • Cybersecurity • Defensive systems • Technical documentation analysis • Embedded systems • Hardware interaction • Performance optimization • Reliability engineering • Complex problem solving
+</p>
 
 ---
 
@@ -81,10 +66,11 @@ AutoCAD • Technical Systems Design • Hardware/Software Integration
 
 <h2>Current Studies</h2>
 
-<ul>
-  <li>Electromechanical Engineering — University of Costa Rica</li>
-  <li>Neurology Studies — University of Pennsylvania</li>
-</ul>
+<p>
+Electromechanical Engineering — University of Costa Rica
+<br>
+Neurology Studies — University of Pennsylvania
+</p>
 
 ---
 
