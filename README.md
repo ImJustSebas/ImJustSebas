@@ -138,6 +138,14 @@ Outside of software and engineering, I dedicate time to continuous learning acro
 Most of my technical background, including programming and systems design, has been developed through self-directed learning driven by curiosity, discipline and long-term technical exploration.
 </p>
 
+
+## 📄 Perfil de Zenodo
+
+<p align="center">
+  <a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest">
+    <img src="https://img.shields.io/badge/Zenodo-Mis%20artículos-1682B4?style=for-the-badge&logo=zenodo&logoColor=white">
+  </a>
+</p>
 ---
 
 <p align="center">
