@@ -139,14 +139,13 @@ Most of my technical background, including programming and systems design, has b
 </p>
 
 
-## 📄 Perfil de Zenodo
+##Zenodo Profile
 
 <p align="center">
   <a href="https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest">
     <img src="https://img.shields.io/badge/Zenodo-Mis%20artículos-1682B4?style=for-the-badge&logo=zenodo&logoColor=white">
   </a>
 </p>
----
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/ImJustSebas/ImJustSebas?style=flat-square&label=Profile%20last%20update&color=white" alt="Last Commit">
