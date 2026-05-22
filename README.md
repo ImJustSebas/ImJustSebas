@@ -44,6 +44,24 @@ One of my most ambitious personal projects involved the development of a functio
 
 ---
 
+<h2>Terminal Snapshot</h2>
+
+<pre>
+$ whoami
+> ImJustSebas — electromechanical engineer & neuro-tech enthusiast
+
+$ projects --latest
+> Neural-controlled prosthesis (Arduino + Python + C)
+
+$ skills --level advanced
+> C, Python, Bash, Embedded Systems, Cryptography, RTOS
+
+$ status
+> Currently learning: Real-time OS & Neuromorphic computing
+</pre>
+
+---
+
 <h2>Areas of Interest</h2>
 
 <p>
@@ -118,4 +136,14 @@ Outside of software and engineering, I dedicate time to continuous learning acro
 
 <p>
 Most of my technical background, including programming and systems design, has been developed through self-directed learning driven by curiosity, discipline and long-term technical exploration.
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/ImJustSebas/ImJustSebas?style=flat-square&label=Profile%20last%20update&color=white" alt="Last Commit">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/github/commit-activity/m/ImJustSebas/ImJustSebas?style=flat-square&label=Total%20commits%20(profile%20repo)&color=white" alt="Commit Activity">
+  <br><br>
+  <code>uptime: 7 years of self-directed learning | load average: creative, analytical, persistent</code>
 </p>
