@@ -24,6 +24,8 @@ Tengo un pequeño laboratorio en casa. Siempre hay algo siendo construido o desa
 
 </div>
 
+<div align="center">
+
 **Lenguajes**  
 ![C](https://img.shields.io/badge/C-111?style=flat-square&logo=c&logoColor=E50914) ![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus&logoColor=E50914) ![C#](https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=E50914) ![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=E50914) ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=E50914) ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=E50914) ![PHP](https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=E50914) ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=E50914)
 
@@ -32,6 +34,8 @@ Tengo un pequeño laboratorio en casa. Siempre hay algo siendo construido o desa
 
 **Ingeniería**  
 ![Arduino](https://img.shields.io/badge/Arduino-111?style=flat-square&logo=arduino&logoColor=E50914) ![MATLAB](https://img.shields.io/badge/MATLAB-111?style=flat-square&logo=mathworks&logoColor=E50914) ![AutoCAD](https://img.shields.io/badge/AutoCAD-111?style=flat-square&logo=autodesk&logoColor=E50914)
+
+</div>
 
 <br>
 
