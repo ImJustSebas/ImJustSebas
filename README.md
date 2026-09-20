@@ -1,10 +1,6 @@
 <div align="center">
 
-<br>
-
-# Sebastian Porras Solano
-
-**Electromechanical Engineering · Universidad de Costa Rica**
+![header](https://capsule-render.vercel.app/api?type=wave&color=E50914&height=200&text=Sebastian%20Porras%20Solano&fontColor=ffffff&fontSize=38&fontAlignY=45&desc=Ingeniería%20Electromecánica%20·%20Universidad%20de%20Costa%20Rica&descAlignY=68&descSize=15&descFontColor=ffcccc)
 
 <br>
 
@@ -16,11 +12,11 @@
 
 ---
 
-Engineering student with a curiosity that rarely stays in one field.  
-I study systems, automation, and circuits — and explore biology, chemistry,  
-mathematics, and cosmology on my own, because the problems are interesting.
+Estudiante de ingeniería con una curiosidad que rara vez se queda en un solo campo.  
+Estudio sistemas, automatización y circuitos — y exploro biología, química,  
+matemáticas y cosmología por cuenta propia, porque los problemas son interesantes.
 
-I run a small home lab. Something is always being built or broken apart.
+Tengo un pequeño laboratorio en casa. Siempre hay algo siendo construido o desarmado.
 
 ---
 
@@ -28,13 +24,13 @@ I run a small home lab. Something is always being built or broken apart.
 
 </div>
 
-**Languages**  
+**Lenguajes**  
 ![C](https://img.shields.io/badge/C-111?style=flat-square&logo=c&logoColor=E50914) ![C++](https://img.shields.io/badge/C++-111?style=flat-square&logo=cplusplus&logoColor=E50914) ![C#](https://img.shields.io/badge/C%23-111?style=flat-square&logo=csharp&logoColor=E50914) ![Java](https://img.shields.io/badge/Java-111?style=flat-square&logo=openjdk&logoColor=E50914) ![Python](https://img.shields.io/badge/Python-111?style=flat-square&logo=python&logoColor=E50914) ![JavaScript](https://img.shields.io/badge/JavaScript-111?style=flat-square&logo=javascript&logoColor=E50914) ![PHP](https://img.shields.io/badge/PHP-111?style=flat-square&logo=php&logoColor=E50914) ![Node.js](https://img.shields.io/badge/Node.js-111?style=flat-square&logo=nodedotjs&logoColor=E50914)
 
-**Systems**  
-![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=E50914) ![Networking](https://img.shields.io/badge/Networking-111?style=flat-square&logo=cisco&logoColor=E50914) ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-111?style=flat-square&logo=kalilinux&logoColor=E50914) ![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql&logoColor=E50914)
+**Sistemas**  
+![Linux](https://img.shields.io/badge/Linux-111?style=flat-square&logo=linux&logoColor=E50914) ![Networking](https://img.shields.io/badge/Networking-111?style=flat-square&logo=cisco&logoColor=E50914) ![Ciberseguridad](https://img.shields.io/badge/Ciberseguridad-111?style=flat-square&logo=kalilinux&logoColor=E50914) ![SQL](https://img.shields.io/badge/SQL-111?style=flat-square&logo=mysql&logoColor=E50914)
 
-**Engineering**  
+**Ingeniería**  
 ![Arduino](https://img.shields.io/badge/Arduino-111?style=flat-square&logo=arduino&logoColor=E50914) ![MATLAB](https://img.shields.io/badge/MATLAB-111?style=flat-square&logo=mathworks&logoColor=E50914) ![AutoCAD](https://img.shields.io/badge/AutoCAD-111?style=flat-square&logo=autodesk&logoColor=E50914)
 
 <br>
@@ -45,8 +41,8 @@ I run a small home lab. Something is always being built or broken apart.
 
 <br>
 
-> *"Study hard what interests you the most in the most undisciplined,*  
-> *irreverent and original manner possible."*  
+> *"Estudia con ahínco lo que más te interese de la manera más indisciplinada,*  
+> *irreverente y original posible."*  
 > — Richard Feynman
 
 </div>
