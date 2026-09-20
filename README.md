@@ -12,11 +12,17 @@
 
 ---
 
+<<<<<<< HEAD
 Estudiante de ingeniería con una curiosidad que rara vez se queda en un solo campo.  
 Estudio sistemas, automatización y circuitos — y exploro biología, química,  
 matemáticas y cosmología por cuenta propia, porque los problemas son interesantes.
 
 Tengo un pequeño laboratorio en casa. Siempre hay algo siendo construido o desarmado.
+=======
+Soy un estudiante de ingenieria con una curiosidad que rara vez se mantiene en una area.
+Puedo estudiar desde sistemas de redes y creacion de circuitos hasta matematica pura y aplicada
+a la inteligencia artificial o temas de biotecnologia.
+>>>>>>> 314e923 (Informacion actualizada)
 
 ---
 
