@@ -1,121 +1,118 @@
-<div align="center">
-
-![header](https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=170&text=SEBASTIAN+PORRAS+SOLANO&fontColor=ff2e2e&fontSize=40&fontAlignY=42&desc=%5B+electromechanical+engineering+%2F%2F+ucr+%5D&descAlignY=68&descSize=14&descFontColor=888888&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=FF2E2E&center=true&vCenter=true&width=620&lines=%24+whoami;%3E+engineering+student+by+day...;%3E+scientist+by+curiosity;%3E+always+building+something.;%24+_)](https://git.io/typing-svg)
-
-</div>
-
 ```
-────────────────────────────────────────────────────────────────
+██╗███╗   ███╗     ██╗██╗   ██╗███████╗████████╗███████╗███████╗██████╗  █████╗ ███████╗
+██║████╗ ████║     ██║██║   ██║██╔════╝╚══██╔══╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
+██║██╔████╔██║     ██║██║   ██║███████╗   ██║   ███████╗█████╗  ██████╔╝███████║███████╗
+██║██║╚██╔╝██║██   ██║██║   ██║╚════██║   ██║   ╚════██║██╔══╝  ██╔══██╗██╔══██║╚════██║
+██║██║ ╚═╝ ██║╚█████╔╝╚██████╔╝███████║   ██║   ███████║███████╗██████╔╝██║  ██║███████║
+╚═╝╚═╝     ╚═╝ ╚════╝  ╚═════╝ ╚══════╝   ╚═╝   ╚══════╝╚══════╝╚═════╝ ╚═╝  ╚═╝╚══════╝
 ```
 
-<br>
-
-## `[ 01 ]` · whoami
-
-```txt
-┌─[ sebastian@ucr ]───────────────────────────────────────┐
-│                                                         │
-│   name        Sebastian Porras Solano                   │
-│   location    Costa Rica                                │
-│   education   Electromechanical Engineering / UCR       │
-│   focus       systems · automation · circuits           │
-│   hobbies     guitar · piano · home lab · linux         │
-│               reading · programming · research          │
-│                                                         │
-└─────────────────────────────────────────────────────────┘
+```
+SESSION STARTED  ──  /home/ImJustSebas  ──  UCR SYSTEM v2.6
+─────────────────────────────────────────────────────────────
 ```
 
 <br>
 
-## `[ 02 ]` · cat ~/about.txt
-
-<div align="justify">
-
-> Engineering student with a curiosity that refuses to stay inside a single field. I study electromechanical engineering, but I also dig into biology, chemistry, mathematics, cosmology and medicine on my own — simply because the challenge is interesting.
->
-> I keep a small home laboratory, a microscope, chemical equipment, and a habit of going far too deep into topics nobody asked me about. Whether it's experimenting with Linux distros, tuning networks, or picking up a new skill, I like putting theory into practice and refining the systems around me.
-
-</div>
-
-<br>
+```
+$ cat about.txt
+```
 
 ```
-// "Study hard what interests you the most in the most
-//  undisciplined, irreverent and original manner possible."
-//                                          — Richard Feynman
+NAME        Sebastian Porras Solano
+LOCATION    Costa Rica
+DEGREE      Electromechanical Engineering  ·  Universidad de Costa Rica
+FOCUS       Systems, automation, circuits, and things that shouldn't work but do
+HOBBIES     Guitar, piano, home lab experiments, Linux tinkering,
+            programming apps, reading, writing about my investigations
 ```
 
 <br>
 
-## `[ 03 ]` · ls ./skills
+I study electromechanical engineering, but curiosity rarely stays inside one discipline.
+Biology, chemistry, mathematics, cosmology, medicine — I pursue them because the problems
+are interesting and the challenges keep the mind sharp.
 
-<div align="center">
-
-**// languages**
-
-![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=ff2e2e)
-![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=ff2e2e)
-![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=ff2e2e)
-![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=ff2e2e)
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=ff2e2e)
-![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=ff2e2e)
-![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=flat-square&logo=php&logoColor=ff2e2e)
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=ff2e2e)
-
-**// systems & data**
-
-![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=mysql&logoColor=ff2e2e)
-![Databases](https://img.shields.io/badge/Databases-0a0a0a?style=flat-square&logo=databricks&logoColor=ff2e2e)
-![Networking](https://img.shields.io/badge/Networking-0a0a0a?style=flat-square&logo=cisco&logoColor=ff2e2e)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=flat-square&logo=kalilinux&logoColor=ff2e2e)
-![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=ff2e2e)
-
-**// hardware & engineering**
-
-![Arduino](https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=ff2e2e)
-![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=ff2e2e)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-0a0a0a?style=flat-square&logo=autodesk&logoColor=ff2e2e)
-
-</div>
-
-<br>
-
-## `[ 04 ]` · ./stats --render
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ImJustSebas&theme=dark&background=0a0a0a&ring=ff2e2e&fire=ff2e2e&currStreakLabel=ff2e2e&sideLabels=aaaaaa&dates=555555&border=ff2e2e&hide_border=false)
-
-</div>
-
-<br>
-
-## `[ 05 ]` · contact --list
-
-```bash
-$ ssh    git@github.com:ImJustSebas
-$ open   instagram.com/5ilvermo0n
-$ mail   sebastianucr2006@gmail.com
-```
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/ImJustSebas-0a0a0a?style=flat-square&logo=github&logoColor=ff2e2e)](https://github.com/ImJustSebas)
-[![Instagram](https://img.shields.io/badge/5ilvermo0n-0a0a0a?style=flat-square&logo=instagram&logoColor=ff2e2e)](https://instagram.com/5ilvermo0n)
-[![Email](https://img.shields.io/badge/sebastianucr2006@gmail.com-0a0a0a?style=flat-square&logo=gmail&logoColor=ff2e2e)](mailto:sebastianucr2006@gmail.com)
-
-</div>
+I run a small home laboratory: microscope, chemical equipment, a growing collection of
+Linux configurations. Theory meets practice constantly. Systems get optimized. Something
+is always being built or broken apart to understand it.
 
 <br>
 
 ```
-────────────────────────────────────────────────────────────────
+─────────────────────────────────────────────────────────────
 ```
 
-<div align="center">
+> *"Study hard what interests you the most in the most undisciplined,*  
+> *irreverent and original manner possible."*  
+> — Richard Feynman
 
-<sub><code>// end of session · connection closed · 2026</code></sub>
+```
+─────────────────────────────────────────────────────────────
+```
 
-</div>
+<br>
+
+```
+$ ls skills/
+```
+
+**Languages**
+
+![C](https://img.shields.io/badge/C-0a0a0a?style=flat-square&logo=c&logoColor=e50914)
+![C++](https://img.shields.io/badge/C++-0a0a0a?style=flat-square&logo=cplusplus&logoColor=e50914)
+![C#](https://img.shields.io/badge/C%23-0a0a0a?style=flat-square&logo=csharp&logoColor=e50914)
+![Java](https://img.shields.io/badge/Java-0a0a0a?style=flat-square&logo=openjdk&logoColor=e50914)
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=e50914)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=flat-square&logo=javascript&logoColor=e50914)
+![PHP](https://img.shields.io/badge/PHP-0a0a0a?style=flat-square&logo=php&logoColor=e50914)
+![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=nodedotjs&logoColor=e50914)
+
+**Systems & Infrastructure**
+
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=e50914)
+![Networking](https://img.shields.io/badge/Networking-0a0a0a?style=flat-square&logo=cisco&logoColor=e50914)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0a0a0a?style=flat-square&logo=kalilinux&logoColor=e50914)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=mysql&logoColor=e50914)
+![Databases](https://img.shields.io/badge/Databases-0a0a0a?style=flat-square&logo=databricks&logoColor=e50914)
+
+**Engineering Tools**
+
+![Arduino](https://img.shields.io/badge/Arduino-0a0a0a?style=flat-square&logo=arduino&logoColor=e50914)
+![MATLAB](https://img.shields.io/badge/MATLAB-0a0a0a?style=flat-square&logo=mathworks&logoColor=e50914)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-0a0a0a?style=flat-square&logo=autodesk&logoColor=e50914)
+
+<br>
+
+```
+─────────────────────────────────────────────────────────────
+$ git log --stat
+```
+
+<br>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ImJustSebas&theme=dark&background=0a0a0a&ring=e50914&fire=e50914&currStreakLabel=e50914&sideLabels=c8c8b4&dates=3d3d2e&border=1a1a1a)
+
+<br>
+
+```
+─────────────────────────────────────────────────────────────
+$ cat contact.txt
+```
+
+```
+github    →  github.com/ImJustSebas
+instagram →  instagram.com/5ilvermo0n
+email     →  sebastianucr2006@gmail.com
+```
+
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=e50914)](https://github.com/ImJustSebas)
+[![Instagram](https://img.shields.io/badge/Instagram-0a0a0a?style=flat-square&logo=instagram&logoColor=e50914)](https://instagram.com/5ilvermo0n)
+[![Email](https://img.shields.io/badge/Email-0a0a0a?style=flat-square&logo=gmail&logoColor=e50914)](mailto:sebastianucr2006@gmail.com)
+
+<br>
+
+```
+─────────────────────────────────────────────────────────────
+SESSION CLOSED
+```
