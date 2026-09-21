@@ -42,9 +42,4 @@ matemáticas y cosmología por cuenta propia, porque los problemas son interesan
 ![GitHub Streak](https://streak-stats.demolab.com?user=ImJustSebas&theme=dark&background=0d0d0d&ring=E50914&fire=E50914&currStreakLabel=E50914&sideLabels=888888&dates=555555&border=222222)
 
 <br>
-
-> *"Estudia con ahínco lo que más te interese de la manera más indisciplinada,*  
-> *irreverente y original posible."*  
-> — Richard Feynman
-
 </div>
