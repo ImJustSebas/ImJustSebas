@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Ingeniería, medicina y software aplicados a la neurotecnología. Estudios: Ingeniería Electromecánica (UCR); Medicina y Cirugía (Penn State).">
+<rect width="1200" height="210" rx="12" fill="#0d1117"/>
+<g font-family="'Helvetica Neue',Helvetica,'Segoe UI',Arial,sans-serif">
+<text x="600" y="52" font-size="32" font-weight="300" fill="#f0f3f6" letter-spacing="0" text-anchor="middle">Ingeniería, medicina y software aplicados a la neurotecnología.</text>
+<path d="M40 92H500M700 92H1160" stroke="#262c36"/>
+<text x="602" y="98" font-size="17" font-weight="600" fill="#f0f3f6" letter-spacing="6" text-anchor="middle">ESTUDIOS</text>
+<text x="370" y="148" font-size="23" font-weight="600" fill="#f0f3f6" letter-spacing="0" text-anchor="middle">Ingeniería Electromecánica</text>
+<text x="370" y="180" font-size="19" font-weight="400" fill="#8b949e" letter-spacing="0" text-anchor="middle">Universidad de Costa Rica (UCR)</text>
+<path d="M600 128V186" stroke="#262c36"/>
+<text x="830" y="148" font-size="23" font-weight="600" fill="#f0f3f6" letter-spacing="0" text-anchor="middle">Medicina y Cirugía</text>
+<text x="830" y="180" font-size="19" font-weight="400" fill="#8b949e" letter-spacing="0" text-anchor="middle">Penn State</text>
+</g>
+</svg>

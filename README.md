@@ -2,7 +2,7 @@
 
 <img src="assets/mono/hero.svg" width="100%" alt="Sebastian Porras Solano"/>
 
-<img src="assets/mono/profile.svg" width="100%" alt="Ingeniería, medicina y software aplicados a la neurotecnología. Estudios: Ingeniería Electromecánica (UCR); Medicina y Cirugía (Penn State)."/>
+<img src="assets/mono/intro.svg" width="100%" alt="Ingeniería, medicina y software aplicados a la neurotecnología. Estudios: Ingeniería Electromecánica (UCR); Medicina y Cirugía (Penn State)."/>
 
 <img src="assets/mono/experience.svg" width="100%" alt="Experiencia. NASA, Pasante de investigación: Algoritmos en Python para imágenes de telescopios de campo profundo y modelado matemático de mapeo de datos. Lilith Technologies, Fundador: Investigación aplicada, software a medida, ciberseguridad, diseño electromecánico y tecnología biomédica. Consultoría independiente, Consultor: Ciberseguridad, redes Linux y desarrollo de software. "/>
 
