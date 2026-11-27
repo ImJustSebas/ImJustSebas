@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="assets/about.svg" width="100%" alt="Estudios: Ingeniería Electromecánica (UCR). Medicina y Cirugía, Penn State. Fundador de Lilith Technologies: investigación aplicada, software, ciberseguridad y tecnología biomédica."/>
+<img src="assets/perfil.svg" width="100%" alt="Estudios: Ingeniería Electromecánica (UCR). Medicina y Cirugía, Penn State. Fundador de Lilith Technologies: investigación aplicada, software, ciberseguridad y tecnología biomédica."/>
 
 <br>
 
