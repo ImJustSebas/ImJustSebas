@@ -30,9 +30,9 @@ Fundador de <b>Lilith Technologies</b>: investigación aplicada, software, ciber
 <h3>Investigación</h3>
 
 <p>
-<b>Tesis</b> · Modelo matemático de la percepción temporal y la construcción de la realidad<br>
-<b>NASA</b> · Ex-pasante: imágenes de telescopios de campo profundo en Python<br>
-<b>Consultoría</b> · Ciberseguridad, redes Linux y software
+Actualmente desarrollo mi tesis para el <b>Departamento de Ciencias Computacionales</b>: un modelo matemático de la <b>percepción temporal</b> que busca describir cómo el cerebro construye la realidad.
+En paralelo, desde <b>Lilith Technologies</b> impulso investigación aplicada y desarrollo en software, ciberseguridad, diseño electromecánico y tecnología biomédica.
+Mi trabajo se apoya en experiencia previa como pasante de investigación en la <b>NASA</b>, donde desarrollé algoritmos en Python para procesar imágenes de telescopios de campo profundo y modelar el mapeo de datos.
 </p>
 
 <h3>Stack</h3>
