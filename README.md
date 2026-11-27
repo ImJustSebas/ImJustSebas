@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Sebastian Porras Solano: Ingeniería Electromecánica, Medicina y Cirugía, Neurociencia Computacional"/>
+<img src="assets/hero.svg" width="100%" alt="Sebastian Porras Solano"/>
 
 <br><br>
 
