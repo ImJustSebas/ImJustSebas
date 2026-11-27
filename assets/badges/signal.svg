@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="187" height="30" viewBox="0 0 187 30" role="img" aria-label="Signal Processing">
+<rect x=".5" y=".5" width="186" height="29" rx="5" fill="#161b22" stroke="#30363d"/>
+<g transform="translate(12 7)" fill="none" stroke="#00f5d4" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"><path d="M1 9h3l2-6 3 11 2-7 1 2h3"/></g>
+<text x="36" y="19.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" font-weight="600" fill="#e6edf3" textLength="139" lengthAdjust="spacingAndGlyphs">SIGNAL PROCESSING</text>
+</svg>
