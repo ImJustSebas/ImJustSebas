@@ -4,13 +4,7 @@
 
 <br><br>
 
-<img src="assets/avatar.svg" width="180" alt="Foto de Sebastian Porras Solano"/>
-
-<br><br>
-
-<b>Ingeniería Electromecánica</b> (UCR)<br>
-<b>Medicina y Cirugía</b> · Penn State<br><br>
-Fundador de <b>Lilith Technologies</b>: investigación aplicada, software, ciberseguridad y tecnología biomédica.
+<img src="assets/about.svg" width="100%" alt="Ingeniería Electromecánica (UCR). Medicina y Cirugía, Penn State. Fundador de Lilith Technologies: investigación aplicada, software, ciberseguridad y tecnología biomédica."/>
 
 <br>
 
