@@ -1,10 +1,11 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Sebastian Porras Solano: Ingeniería Electromecánica, Medicina y Neurociencia Computacional"/>
+<img src="assets/header.svg" width="100%" alt="Sebastian Porras Solano: Ingeniería Electromecánica, Medicina y Cirugía, Neurociencia Computacional"/>
 
 <br><br>
 
-Doble carrera en la <b>Universidad de Costa Rica</b>, entre la ingeniería y el cerebro.<br>
+<b>Ingeniería Electromecánica</b> · Universidad de Costa Rica (UCR)<br>
+<b>Medicina y Cirugía</b> · Penn State<br><br>
 Fundador de <b>Lilith Technologies</b>: investigación aplicada, software, ciberseguridad y tecnología biomédica.
 
 <br>
@@ -34,36 +35,34 @@ Fundador de <b>Lilith Technologies</b>: investigación aplicada, software, ciber
 <b>Consultoría</b> · Ciberseguridad, redes Linux y software
 </p>
 
-<h3>Proyectos</h3>
-
-<table>
-<tr>
-<td align="center" width="420"><a href="https://github.com/ImJustSebas/SpeakToText"><b>SpeakToText</b></a><br><sub>Transcripción y procesamiento de voz</sub></td>
-<td align="center" width="420"><a href="https://github.com/ImJustSebas/PdfToMarkdown"><b>PdfToMarkdown</b></a><br><sub>Conversión estructurada de documentos</sub></td>
-</tr>
-<tr>
-<td align="center"><a href="https://github.com/ImJustSebas/Scrcpy-UI"><b>Scrcpy-UI</b></a><br><sub>Interfaz gráfica para control de dispositivos</sub></td>
-<td align="center"><a href="https://github.com/ImJustSebas/VlogStudy-App"><b>VlogStudy-App</b></a><br><sub>Organización y estudio</sub></td>
-</tr>
-</table>
-
 <h3>Stack</h3>
 
 <p>
 <img src="assets/badges/python.svg" alt="Python"/>
+<img src="assets/badges/rust.svg" alt="Rust"/>
 <img src="assets/badges/cpp.svg" alt="C / C++"/>
-<img src="assets/badges/linux.svg" alt="Linux"/>
+<img src="assets/badges/java.svg" alt="Java"/>
+<img src="assets/badges/kotlin.svg" alt="Kotlin"/>
+<img src="assets/badges/php.svg" alt="PHP"/>
+<img src="assets/badges/sql.svg" alt="SQL"/>
+<br>
+<img src="assets/badges/web.svg" alt="Web Development"/>
+<img src="assets/badges/react.svg" alt="React"/>
+<img src="assets/badges/node.svg" alt="Node.js"/>
 <img src="assets/badges/git.svg" alt="Git"/>
+<br>
+<img src="assets/badges/linux.svg" alt="Linux"/>
+<img src="assets/badges/networks.svg" alt="Networking"/>
+<img src="assets/badges/security.svg" alt="Cybersecurity"/>
 <br>
 <img src="assets/badges/neural.svg" alt="Neural Networks"/>
 <img src="assets/badges/signal.svg" alt="Signal Processing"/>
 <img src="assets/badges/cad.svg" alt="CAD"/>
-<img src="assets/badges/security.svg" alt="Cybersecurity"/>
 </p>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-<p><sub>Español (nativo) · Inglés (profesional completo) · Alemán e Italiano (básico profesional)</sub></p>
+<p><sub>Español · Inglés · Alemán · Italiano</sub></p>
 
 <a href="https://www.linkedin.com/in/sebastian-porras-solano-796613443/"><img src="assets/badges/linkedin.svg" alt="LinkedIn"/></a>
 <a href="https://www.instagram.com/5ilvermo0n/"><img src="assets/badges/instagram.svg" alt="Instagram"/></a>
