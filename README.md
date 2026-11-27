@@ -4,7 +4,7 @@
 
 <br><br>
 
-<b>Ingeniería Electromecánica</b> · Universidad de Costa Rica (UCR)<br>
+<b>Ingeniería Electromecánica</b> (UCR)<br>
 <b>Medicina y Cirugía</b> · Penn State<br><br>
 Fundador de <b>Lilith Technologies</b>: investigación aplicada, software, ciberseguridad y tecnología biomédica.
 
