@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-label="Experiencia. NASA, Pasante de investigación: Desarrollo de algoritmos en Python para el procesamiento de imágenes astronómicas capturadas por telescopios de campo profundo. Aplicación de modelado matemático al mapeo de datos, integrando programación científica y análisis cuantitativo en un entorno de investigación. Lilith Technologies, Fundador: Creación de una firma tecnológica descentralizada orientada a la investigación aplicada y al desarrollo de software a medida. Sus líneas de trabajo integran ciberseguridad, diseño electromecánico y CAD, y tecnología biomédica bajo una visión multidisciplinaria. Consultoría independiente, Consultor tecnológico: Asesoría en ciberseguridad y en la protección de sistemas. Trabajo con redes y entornos Linux. Desarrollo de soluciones de software adaptadas a necesidades técnicas específicas.">
+<rect width="1200" height="580" rx="12" fill="#0d1117"/>
+<g font-family="'Helvetica Neue',Helvetica,'Segoe UI',Arial,sans-serif">
+<text x="603" y="38" font-size="17" font-weight="600" fill="#f0f3f6" letter-spacing="6" text-anchor="middle">EXPERIENCIA</text><path d="M40 32H455M745 32H1160" stroke="#262c36"/>
+<rect x="40" y="68" width="1120" height="152" rx="10" fill="#11161d" stroke="#262c36"/>
+<text x="72" y="114" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="3">EXPERIENCIA PREVIA</text><text x="72" y="152" font-size="24" font-weight="600" fill="#f0f3f6" letter-spacing="0">NASA</text><text x="72" y="184" font-size="18" font-weight="400" fill="#8b949e" letter-spacing="0">Pasante de investigación</text>
+<path d="M400 96V192" stroke="#262c36"/>
+<text x="436" y="112" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Desarrollo de algoritmos en Python para el procesamiento de imágenes</text>
+<text x="436" y="141" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">astronómicas capturadas por telescopios de campo profundo.</text>
+<text x="436" y="170" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Aplicación de modelado matemático al mapeo de datos, integrando</text>
+<text x="436" y="199" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">programación científica y análisis cuantitativo en un entorno de investigación.</text>
+<rect x="40" y="236" width="1120" height="152" rx="10" fill="#11161d" stroke="#262c36"/>
+<text x="72" y="282" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="3">EMPRENDIMIENTO</text><text x="72" y="320" font-size="24" font-weight="600" fill="#f0f3f6" letter-spacing="0">Lilith Technologies</text><text x="72" y="352" font-size="18" font-weight="400" fill="#8b949e" letter-spacing="0">Fundador</text>
+<path d="M400 264V360" stroke="#262c36"/>
+<text x="436" y="280" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Creación de una firma tecnológica descentralizada orientada a la</text>
+<text x="436" y="309" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">investigación aplicada y al desarrollo de software a medida.</text>
+<text x="436" y="338" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Sus líneas de trabajo integran ciberseguridad, diseño electromecánico</text>
+<text x="436" y="367" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">y CAD, y tecnología biomédica bajo una visión multidisciplinaria.</text>
+<rect x="40" y="404" width="1120" height="152" rx="10" fill="#11161d" stroke="#262c36"/>
+<text x="72" y="450" font-size="12" font-weight="600" fill="#8b949e" letter-spacing="3">SERVICIOS PROFESIONALES</text><text x="72" y="488" font-size="24" font-weight="600" fill="#f0f3f6" letter-spacing="0">Consultoría independiente</text><text x="72" y="520" font-size="18" font-weight="400" fill="#8b949e" letter-spacing="0">Consultor tecnológico</text>
+<path d="M400 432V528" stroke="#262c36"/>
+<text x="436" y="448" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Asesoría en ciberseguridad y en la protección de sistemas.</text>
+<text x="436" y="477" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Trabajo con redes y entornos Linux.</text>
+<text x="436" y="506" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">Desarrollo de soluciones de software adaptadas a necesidades</text>
+<text x="436" y="535" font-size="19" font-weight="400" fill="#c9d1d9" letter-spacing="0">técnicas específicas.</text>
+</g>
+</svg>
