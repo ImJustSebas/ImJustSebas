@@ -8,7 +8,7 @@
 
 <img src="assets/mono/research.svg" width="100%" alt="Investigación. Tesis en curso para el Departamento de Ciencias Computacionales: Un modelo matemático de la percepción temporal que busca describir cómo el cerebro construye la realidad."/>
 
-<img src="assets/mono/focus.svg" width="100%" alt="Enfoque. Neurotech: EEG en 3D, Control de prótesis, Modelado cerebral. IA y Datos: Redes neuronales desde cero, Visión por computadora, Análisis biomédico. Sistemas y Seguridad: Arquitectura de software, Linux, redes y servidores, Encriptación automatizada"/>
+<img src="assets/mono/enfoque.svg" width="100%" alt="Enfoque. Neurotecnología Médica: EEG en 3D, Control de prótesis, Modelado cerebral. IA y Automatización: Automatización con IA, Redes neuronales desde cero, Visión por computadora. Análisis de Datos: Python para casos diversos, Análisis biomédico, Modelado matemático. Ciberseguridad: Ciberseguridad general, Protección de sistemas, Encriptación automatizada. Redes y Sistemas: Creación y gestión de redes, Linux y servidores, Arquitectura de software. Código Libre: Apps libres y completas, Para estudiantes, Productividad propia y pública."/>
 
 <img src="assets/mono/stack.svg" width="100%" alt="Stack: Python, C / C++, Rust, Java, SQL, React, Node.js, Linux, Redes, Ciberseguridad. Idiomas: Español (Nativo), Inglés (Profesional completo), Alemán (Básico profesional), Italiano (Básico profesional)"/>
 
